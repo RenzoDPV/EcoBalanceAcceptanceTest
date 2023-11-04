@@ -1,7 +1,7 @@
 Feature: US05 - Botones de acceso para visitantes
 
   Como visitante de la página
-  Quiero ver los botones "Sign in" y "Log Up"
+  Quiero ver los botones "Sign Up" y "Log In"
   Para poder ingresar o registrarme como usuario de la aplicación
 
   Scenario: Verificar la presencia de botones de acceso
