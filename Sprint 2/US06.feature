@@ -5,7 +5,7 @@ Feature: US06 - Grabar y editar video del producto para agregar a la Landing Pag
   Para luego agregar este video a la Landing Page y promocionar el producto de manera visual a los usuarios
 
   Scenario: Grabar video del producto
-    Given que tengo acceso a las herramientas de grabación y edición
+    Given que tengo acceso a las herramientas de grabación y edicion
     When grabo un video detallando las características y beneficios del producto
     Then debería obtener un video editado y listo para ser utilizado
 
