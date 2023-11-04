@@ -13,3 +13,5 @@ Feature: US08 - Crear el botón "Contacto"
     Given que soy un usuario en la interfaz
     When hago clic en el botón "Contacto"
     Then debería ser redirigido a la sección de información de contacto
+
+    
