@@ -17,4 +17,5 @@ Feature: US05 - Botones de acceso para visitantes
 
     Given que soy un visitante de la página
     When hago clic en el botón "Log Up"
-    Then debería ser redirigido a la página de registro
+    Then debería redirigirse a la página de registro
+    
