@@ -2,7 +2,7 @@ Feature: US07 - Crear el botón "Información"
 
   Como desarrollador
   Quiero crear un botón "Información"
-  Para proporcionar a los usuarios acceso a detalles adicionales sobre el producto o servicio
+  Para proporcionar a los usuarios acceso a detalles adicionales sobre el producto o servicio que brindamos
 
   Scenario: Crear el botón "Información"
     Given que estoy trabajando en la interfaz de usuario
